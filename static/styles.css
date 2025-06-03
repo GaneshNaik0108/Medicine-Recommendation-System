@@ -1,0 +1,44 @@
+.logo{
+    width: 50px;
+    height: 50px;
+    color: black;
+    margin-top: 0;
+    margin-left: 2px;
+}
+
+.myimg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid black
+}
+.container{
+    padding:50px;
+    border-radius: 15px;
+
+}
+
+.but{
+    width:100%;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+.lower_buttons {
+    padding: 5px;
+    margin: 5px 40px 5px 0 ;
+    font-size: 20px;
+    font-weight:bold;
+    width: 140px ;
+    border-radius: 5px;
+    background:#f39334;;
+    color: black;
+}
+
+.smpt{
+    font-weight: bold;
+    color: white;
+}
+
+.cont{
+    background-color: black;
+}
